@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: reporting-service
+  profiles:
+    active: dev
