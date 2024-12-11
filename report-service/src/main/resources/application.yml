@@ -1,5 +1,5 @@
 spring:
   application:
-    name: reporting-service
+    name: report-service
   profiles:
     active: dev
